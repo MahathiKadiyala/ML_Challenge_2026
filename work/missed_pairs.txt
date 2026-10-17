@@ -1,0 +1,150 @@
+S1:  Name='Gray Financial LLC' (Core='gray financial')
+     Addr='404 Coxs Fork Road, Danville, WV' (Nums=['404'])
+Tgt: Name='Veoquo' (Core='veoquo')
+     Addr='404 COXS FORK RD, DANVILLE, WV' (Nums=['404'])
+------------------------------------------------------------
+S1:  Name='Gray Financial LLC' (Core='gray financial')
+     Addr='404 Coxs Fork Road, Danville, WV' (Nums=['404'])
+Tgt: Name='GRAY-LLC FINANCIAL' (Core='gray llc financial')
+     Addr='COXS FORK RD, DANVILLE, WV' (Nums=[])
+------------------------------------------------------------
+S1:  Name='Gleda Engle Heritage Fuels Inc' (Core='gleda engle heritage fuels')
+     Addr='847 Horseman Drive, Rock Hill, SC' (Nums=['847'])
+Tgt: Name='6LEDAENGLEHERITAGE.COM' (Core='6ledaengleheritage com')
+     Addr='ROCK HILL, 847 HORSEMAN DRIVE, SC' (Nums=['847'])
+------------------------------------------------------------
+S1:  Name='Elysia's Therapy Corp' (Core='elysia s therapy')
+     Addr='584 Christine Drive, Vacaville, CA' (Nums=['584'])
+Tgt: Name='Corp Elysia's Therapy' (Core='corp elysia s therapy')
+     Addr='584 Christine Drive, Vacaville, California' (Nums=['584'])
+------------------------------------------------------------
+S1:  Name='KKX State Inc' (Core='kkx state')
+     Addr='205 D M Court, AR, Pearcy' (Nums=['205'])
+Tgt: Name='Ínc KKX State' (Core='inc kkx state')
+     Addr='205 D M Ct, Pearcy, Arkansas' (Nums=['205'])
+------------------------------------------------------------
+S1:  Name='KKX State Inc' (Core='kkx state')
+     Addr='205 D M Court, AR, Pearcy' (Nums=['205'])
+Tgt: Name='Partners KKX Inc' (Core='partners kkx')
+     Addr='205 D M Ct, Pearcy, Arkansas' (Nums=['205'])
+------------------------------------------------------------
+S1:  Name='KKX State Inc' (Core='kkx state')
+     Addr='205 D M Court, AR, Pearcy' (Nums=['205'])
+Tgt: Name='KKX Staote Inc' (Core='kkx staote')
+     Addr='' (Nums=[])
+------------------------------------------------------------
+S1:  Name='Kolkata Power Private Limited' (Core='kolkata power')
+     Addr='10/2/A, Abinash Mitra Lane, Kolkata, Kolkata, Howrah, West Bengal' (Nums=['10', '2'])
+Tgt: Name='Private Kolkata Power Limited' (Core='private kolkata power')
+     Addr='10/2/A, Kolkata, Howrah, WB' (Nums=['10', '2'])
+------------------------------------------------------------
+S1:  Name='Dhyeya Entertainment Private Limited' (Core='dhyeya entertainment')
+     Addr='A-15 (B) Riico Industrial Area, Behror, Alwar, Rajasthan' (Nums=['15'])
+Tgt: Name='privateentertainmentdhyeya.com' (Core='privateentertainmentdhyeya com')
+     Addr='A-15 (B) Riico Industrial Area, Behror, Alwar, राजस्थान' (Nums=['15'])
+------------------------------------------------------------
+S1:  Name='YTW Promoters Private Limited' (Core='ytw promoters')
+     Addr='Mumbai, 1St Floor Samkeet Aptoffice No 105 Sant Janabai Rd Hanuman Road Vile Parle East, Maharashtra, Mumbai' (Nums=['105'])
+Tgt: Name='Private YTW Promoters ((Limited))' (Core='private ytw promoters')
+     Addr='Door No 1St Floor Samkeet Aptoffice No 105 Sant Janabai Rd Hanuman Road Vile Parle East, Mumbai, MH' (Nums=['105'])
+------------------------------------------------------------
+S1:  Name='Reynolds Culture of Clinton' (Core='reynolds culture of clinton')
+     Addr='2948 2650, Clinton, UT' (Nums=['2948', '2650'])
+Tgt: Name='Ciintn Culture Of Reynolds' (Core='ciintn culture of reynolds')
+     Addr='2948 2650, Clinton, Utah' (Nums=['2948', '2650'])
+------------------------------------------------------------
+S1:  Name='Sai Contractors Private Limited' (Core='sai contractors')
+     Addr='469 Kamla Nagar, Meerut, Uttar Pradesh' (Nums=['469'])
+Tgt: Name='Limited Sai Contractors Services' (Core='limited sai contractors')
+     Addr='#469 Kamla Nagar, Meerut, UP' (Nums=['469'])
+------------------------------------------------------------
+S1:  Name='International Consulting Limited' (Core='international consulting')
+     Addr='6Th Floor, D- Building, Mbc It Park, G.B. Road, Near Wadavali Police, Kasarwadavali, Kasarwadavali, Thane, Maharashtra' (Nums=[])
+Tgt: Name='इंटरनेशनल कंसल्टिंग लिमिटेड' (Core='inttrneshnl knsltting limittedd')
+     Addr='6Th/5 Floor, Thane, Kasarwadavali, MH' (Nums=['5'])
+------------------------------------------------------------
+S1:  Name='International Consulting Limited' (Core='international consulting')
+     Addr='6Th Floor, D- Building, Mbc It Park, G.B. Road, Near Wadavali Police, Kasarwadavali, Kasarwadavali, Thane, Maharashtra' (Nums=[])
+Tgt: Name='इंटरनेशनल कंसल्टिंग लिमिटेड' (Core='inttrneshnl knsltting limittedd')
+     Addr='TH FLOOR, D- BUILDING, MBC IT PARK, G.B. ROAD, NEAR WADAVALI POLICE, KASARWADAVALI, THANE, KASARWADAVALI, महाराष्ट्र' (Nums=[])
+------------------------------------------------------------
+S1:  Name='International Consulting Limited' (Core='international consulting')
+     Addr='6Th Floor, D- Building, Mbc It Park, G.B. Road, Near Wadavali Police, Kasarwadavali, Kasarwadavali, Thane, Maharashtra' (Nums=[])
+Tgt: Name='इंटरनेशनल कंसल्टिंग लिमिटेड' (Core='inttrneshnl knsltting limittedd')
+     Addr='H.NO TH FLOOR, D- BUILDING, MBC IT PARK, G.B. ROAD, NEAR WADAVALI POLICE, KASARWADAVALI, KASARWADAVALI, THANE, Maharashtra' (Nums=[])
+------------------------------------------------------------
+S1:  Name='International Consulting Limited' (Core='international consulting')
+     Addr='6Th Floor, D- Building, Mbc It Park, G.B. Road, Near Wadavali Police, Kasarwadavali, Kasarwadavali, Thane, Maharashtra' (Nums=[])
+Tgt: Name='Smt #internationalconsulting' (Core='internationalconsulting')
+     Addr='6Th/5 Floor, Kasarwadavali, Thane, MH' (Nums=['5'])
+------------------------------------------------------------
+S1:  Name='Candra Mccutcheon Elite Studios L.L.C.' (Core='candra mccutcheon elite studios l l c')
+     Addr='139 Nevada 111, Emmet, AR' (Nums=['139', '111'])
+Tgt: Name='mccutcheonelitecom' (Core='mccutcheonelitecom')
+     Addr='139 NEVADA 111, EMET, AR' (Nums=['139', '111'])
+------------------------------------------------------------
+S1:  Name='Southern Exports Private Limited' (Core='southern exports')
+     Addr='201/H-25, Pratiksha Nagar (Mhada Colony) Pratiksha Nagar Best Bus Depot Road, Sio, N, Mumbai, Mumbai City, Maharashtra' (Nums=['201', '25'])
+Tgt: Name='सदर्न एक्सपोर्ट्स प्राइवेट लिमिटेड' (Core='sdrn eksportts praaivett limittedd')
+     Addr='201/H-25, Mumbai City, MH' (Nums=['201', '25'])
+------------------------------------------------------------
+S1:  Name='Southern Exports Private Limited' (Core='southern exports')
+     Addr='201/H-25, Pratiksha Nagar (Mhada Colony) Pratiksha Nagar Best Bus Depot Road, Sio, N, Mumbai, Mumbai City, Maharashtra' (Nums=['201', '25'])
+Tgt: Name='सदर्न एक्सपोर्ट्स प्राइवेट लिमिटेड' (Core='sdrn eksportts praaivett limittedd')
+     Addr='H.NO 485 201/H-25, PRATIKSHA NAGAR (MHADA COLONY) PRATIKSHA NAGAR BEST BUS DEPOT ROAD, SIO, N, BOMBAY, MUMBAI CITY, Maharashtra' (Nums=['485', '201', '25'])
+------------------------------------------------------------
+S1:  Name='Wilson, Stephi, Esq., DDS PC' (Core='wilson stephi esq dds')
+     Addr='1673 Kelley Lane, Pingree Grove, IL' (Nums=['1673'])
+Tgt: Name='Wils0n, Stephi, Esq., DDS' (Core='wils0n stephi esq dds')
+     Addr='Kelley Ln, Pingree Grove, Illinois' (Nums=[])
+------------------------------------------------------------
+S1:  Name='MAB Bright Auto' (Core='mab bright auto')
+     Addr='124 Hill Creek Road, Blounts Creek, NC' (Nums=['124'])
+Tgt: Name='Bright MAB Auto' (Core='bright mab auto')
+     Addr='##124 Hill Creek Road, North Carolina, Blounts Creek' (Nums=['124'])
+------------------------------------------------------------
+S1:  Name='MAB Bright Auto' (Core='mab bright auto')
+     Addr='124 Hill Creek Road, Blounts Creek, NC' (Nums=['124'])
+Tgt: Name='Auto MAB Bright' (Core='auto mab bright')
+     Addr='124 HILL CREEK RD, BLOUNTS CREEK, NC' (Nums=['124'])
+------------------------------------------------------------
+S1:  Name='Saint Community Church' (Core='saint community church')
+     Addr='3791 Captains Way, Wheatfield, NY' (Nums=['3791'])
+Tgt: Name='The Saint Community (Church)' (Core='the saint community church')
+     Addr='3791 CAPTAINS WAY, PO BOX 339, WHEATFIELD, NY' (Nums=['3791', '339'])
+------------------------------------------------------------
+S1:  Name='Saint Community Church' (Core='saint community church')
+     Addr='3791 Captains Way, Wheatfield, NY' (Nums=['3791'])
+Tgt: Name='saintc0mmunity.com' (Core='saintc0mmunity com')
+     Addr='03791 Captains Way, North Tonawanda, New York' (Nums=['03791'])
+------------------------------------------------------------
+S1:  Name='Indore Devcon Limited' (Core='indore devcon')
+     Addr='201, Second Floor 79, Radhika Palace Gram Khajrana, Indore, Madhya Pradesh' (Nums=['201', '79'])
+Tgt: Name='idevcon.com' (Core='idevcon com')
+     Addr='201, INDORE, Madhya Pradesh' (Nums=['201'])
+------------------------------------------------------------
+S1:  Name='Royal Research Advisors LLC' (Core='royal research advisors')
+     Addr='34 Beach Street, Milford, MA' (Nums=['34'])
+Tgt: Name='Advisors Royal Research LLC' (Core='advisors royal research')
+     Addr='034 Beach Street, Milford, Massachusetts' (Nums=['034'])
+------------------------------------------------------------
+S1:  Name='Dream Developers Private Limited' (Core='dream developers')
+     Addr='Chikhali Tal Sangamner, Sangamner, Ahmednagar, C/O. Sr. No. 61/6, Maharashtra' (Nums=['61', '6'])
+Tgt: Name='ड्रीम डेवलपर्स प्राइवेट लिमिटेड' (Core='ddriim ddevlprs praaivett limittedd')
+     Addr='SANGAMNER, Maharashtra, CHIKHALI TAL SANGAMNER, C/O. SR. NO. 61/6, AHMEDNAGAR' (Nums=['61', '6'])
+------------------------------------------------------------
+S1:  Name='Dream Developers Private Limited' (Core='dream developers')
+     Addr='Chikhali Tal Sangamner, Sangamner, Ahmednagar, C/O. Sr. No. 61/6, Maharashtra' (Nums=['61', '6'])
+Tgt: Name='Private Dream Dvelopegs Limited' (Core='private dream dvelopegs')
+     Addr='C/o. Sr. No. 61/6, Chikhali Tal Sangamner, Ahmednagar, Sangamner, महाराष्ट्र' (Nums=['61', '6'])
+------------------------------------------------------------
+S1:  Name='Almonte Bay Entergy, Inc' (Core='almonte bay entergy')
+     Addr='5276 Orkney Grade, Shenandoah County, VA' (Nums=['5276'])
+Tgt: Name='@almontebay' (Core='almontebay')
+     Addr='527 ORKNEY GRADE, SHENANDOAH COUNTY, VA' (Nums=['527'])
+------------------------------------------------------------
+S1:  Name='Almonte Bay Entergy, Inc' (Core='almonte bay entergy')
+     Addr='5276 Orkney Grade, Shenandoah County, VA' (Nums=['5276'])
+Tgt: Name='entergyalmontebay.com' (Core='entergyalmontebay com')
+     Addr='5276 Orkney Grade, MT. Jackson, Virginia' (Nums=['5276'])
+------------------------------------------------------------

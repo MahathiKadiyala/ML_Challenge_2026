@@ -1,0 +1,150 @@
+S1:  Name='KKX State Inc' (Tokens=['kx', 'state'])
+     Addr='205 D M Court, AR, Pearcy' (Nums=['205'], Words=['pearcy'])
+Tgt: Name='KKX Staote Inc' (Tokens=['kx', 'staote'])
+     Addr='' (Nums=[], Words=[])
+------------------------------------------------------------
+S1:  Name='International Consulting Limited' (Tokens=['consulting'])
+     Addr='6Th Floor, D- Building, Mbc It Park, G.B. Road, Near Wadavali Police, Kasarwadavali, Kasarwadavali, Thane, Maharashtra' (Nums=[], Words=['6th', 'flor', 'mbc'])
+Tgt: Name='इंटरनेशनल कंसल्टिंग लिमिटेड' (Tokens=['intrneshnl', 'knslting'])
+     Addr='TH FLOOR, D- BUILDING, MBC IT PARK, G.B. ROAD, NEAR WADAVALI POLICE, KASARWADAVALI, THANE, KASARWADAVALI, महाराष्ट्र' (Nums=[], Words=['flor', 'mbc', 'park'])
+------------------------------------------------------------
+S1:  Name='International Consulting Limited' (Tokens=['consulting'])
+     Addr='6Th Floor, D- Building, Mbc It Park, G.B. Road, Near Wadavali Police, Kasarwadavali, Kasarwadavali, Thane, Maharashtra' (Nums=[], Words=['6th', 'flor', 'mbc'])
+Tgt: Name='इंटरनेशनल कंसल्टिंग लिमिटेड' (Tokens=['intrneshnl', 'knslting'])
+     Addr='H.NO TH FLOOR, D- BUILDING, MBC IT PARK, G.B. ROAD, NEAR WADAVALI POLICE, KASARWADAVALI, KASARWADAVALI, THANE, Maharashtra' (Nums=[], Words=['flor', 'mbc', 'park'])
+------------------------------------------------------------
+S1:  Name='International Consulting Limited' (Tokens=['consulting'])
+     Addr='6Th Floor, D- Building, Mbc It Park, G.B. Road, Near Wadavali Police, Kasarwadavali, Kasarwadavali, Thane, Maharashtra' (Nums=[], Words=['6th', 'flor', 'mbc'])
+Tgt: Name='Smt #internationalconsulting' (Tokens=['internationalconsulting'])
+     Addr='6Th/5 Floor, Kasarwadavali, Thane, MH' (Nums=['5'], Words=['6th', 'flor', 'kasarwadavali'])
+------------------------------------------------------------
+S1:  Name='International Consulting Limited' (Tokens=['consulting'])
+     Addr='6Th Floor, D- Building, Mbc It Park, G.B. Road, Near Wadavali Police, Kasarwadavali, Kasarwadavali, Thane, Maharashtra' (Nums=[], Words=['6th', 'flor', 'mbc'])
+Tgt: Name='इंटरनेशनल कंसल्टिंग लिमिटेड' (Tokens=['intrneshnl', 'knslting'])
+     Addr='6Th/5 Floor, Thane, Kasarwadavali, MH' (Nums=['5'], Words=['6th', 'flor', 'thane'])
+------------------------------------------------------------
+S1:  Name='Southern Exports Private Limited' (Tokens=['southern', 'exports'])
+     Addr='201/H-25, Pratiksha Nagar (Mhada Colony) Pratiksha Nagar Best Bus Depot Road, Sio, N, Mumbai, Mumbai City, Maharashtra' (Nums=['201', '25'], Words=['pratiksha', 'mhada', 'pratiksha'])
+Tgt: Name='सदर्न एक्सपोर्ट्स प्राइवेट लिमिटेड' (Tokens=['sdrn', 'eksports', 'praivet'])
+     Addr='201/H-25, Mumbai City, MH' (Nums=['201', '25'], Words=['mumbai'])
+------------------------------------------------------------
+S1:  Name='Wilson, Stephi, Esq., DDS PC' (Tokens=['wilson', 'stephi', 'esq', 'ds'])
+     Addr='1673 Kelley Lane, Pingree Grove, IL' (Nums=['1673'], Words=['keley', 'pingre', 'grove'])
+Tgt: Name='Wils0n, Stephi, Esq., DDS' (Tokens=['wils0n', 'stephi', 'esq', 'ds'])
+     Addr='Kelley Ln, Pingree Grove, Illinois' (Nums=[], Words=['keley', 'pingre', 'grove'])
+------------------------------------------------------------
+S1:  Name='Saint Community Church' (Tokens=['saint', 'comunity', 'church'])
+     Addr='3791 Captains Way, Wheatfield, NY' (Nums=['3791'], Words=['captains', 'way', 'wheatfield'])
+Tgt: Name='saintc0mmunity.com' (Tokens=['saintc0munity'])
+     Addr='03791 Captains Way, North Tonawanda, New York' (Nums=['03791'], Words=['captains', 'way', 'tonawanda'])
+------------------------------------------------------------
+S1:  Name='Gulf Services LP' (Tokens=['gulf', 'lp'])
+     Addr='449 27th Street, Ogden City, UT' (Nums=['449'], Words=['27th', 'stret', 'ogden'])
+Tgt: Name='Gulf Services #22407' (Tokens=['gulf', '22407'])
+     Addr='44 27th Street, Ogden, Utah' (Nums=['44'], Words=['27th', 'stret', 'ogden'])
+------------------------------------------------------------
+S1:  Name='Indore Devcon Limited' (Tokens=['indore', 'devcon'])
+     Addr='201, Second Floor 79, Radhika Palace Gram Khajrana, Indore, Madhya Pradesh' (Nums=['201', '79'], Words=['second', 'flor', 'radhika'])
+Tgt: Name='Indore Limited Services' (Tokens=['indore'])
+     Addr='मध्य प्रदेश, Indore, 0201, Indore, Second Floor 79, Radhika Palace Gram Khajrana' (Nums=['0201', '79'], Words=['mdhy', 'prdesh', 'indore'])
+------------------------------------------------------------
+S1:  Name='Indore Devcon Limited' (Tokens=['indore', 'devcon'])
+     Addr='201, Second Floor 79, Radhika Palace Gram Khajrana, Indore, Madhya Pradesh' (Nums=['201', '79'], Words=['second', 'flor', 'radhika'])
+Tgt: Name='idevcon.com' (Tokens=['idevcon'])
+     Addr='201, INDORE, Madhya Pradesh' (Nums=['201'], Words=['indore', 'madhya', 'pradesh'])
+------------------------------------------------------------
+S1:  Name='Dream Developers Private Limited' (Tokens=['dream', 'developers'])
+     Addr='Chikhali Tal Sangamner, Sangamner, Ahmednagar, C/O. Sr. No. 61/6, Maharashtra' (Nums=['61', '6'], Words=['chikhali', 'tal', 'sangamner'])
+Tgt: Name='ड्रीम डेवलपर्स प्राइवेट लिमिटेड' (Tokens=['drim', 'devlprs', 'praivet'])
+     Addr='SANGAMNER, Maharashtra, CHIKHALI TAL SANGAMNER, C/O. SR. NO. 61/6, AHMEDNAGAR' (Nums=['61', '6'], Words=['sangamner', 'maharashtra', 'chikhali'])
+------------------------------------------------------------
+S1:  Name='Almonte Bay Entergy, Inc' (Tokens=['almonte', 'bay', 'entergy'])
+     Addr='5276 Orkney Grade, Shenandoah County, VA' (Nums=['5276'], Words=['orkney', 'grade', 'shenandoah'])
+Tgt: Name='@almontebay' (Tokens=['almontebay'])
+     Addr='527 ORKNEY GRADE, SHENANDOAH COUNTY, VA' (Nums=['527'], Words=['orkney', 'grade', 'shenandoah'])
+------------------------------------------------------------
+S1:  Name='Arndt Oncology LLC' (Tokens=['arndt', 'oncology', 'lc'])
+     Addr='3847 5200, Spanish Fork, UT' (Nums=['3847', '5200'], Words=['spanish', 'fork'])
+Tgt: Name='ARNDT0NCOLOGY.COM' (Tokens=['arndt0ncology'])
+     Addr='3847 5200, LAKE SHORE, UT' (Nums=['3847', '5200'], Words=['lake', 'shore'])
+------------------------------------------------------------
+S1:  Name='Sadie Brown Pharmaceuticals Co' (Tokens=['sadie', 'brown', 'pharmaceuticals'])
+     Addr='945 Redbud Lane, Bullard, TX' (Nums=['945'], Words=['redbud', 'bulard'])
+Tgt: Name='@SADIEBROWN' (Tokens=['sadiebrown'])
+     Addr='00945 REDBUD LANE, BULLARD, TX' (Nums=['00945'], Words=['redbud', 'bulard'])
+------------------------------------------------------------
+S1:  Name='Al Infra Private Limited' (Tokens=['al', 'infra'])
+     Addr='Plot No. 1, Khasra No. 58/8, Nand Lal Tanwar Marg, Village Mandi, New Delhi, Delhi' (Nums=['1', '58', '8'], Words=['khasra', 'nand', 'lal'])
+Tgt: Name='अल इंफ्रा प्राइवेट लिमिटेड' (Tokens=['al', 'inphra', 'praivet'])
+     Addr='PLOT NO. 1, NEW DELHI, Delhi' (Nums=['1'], Words=['new', 'delhi', 'delhi'])
+------------------------------------------------------------
+S1:  Name='Unique Developers Private Limited' (Tokens=['unique', 'developers'])
+     Addr='S 221/61, Ground Floor, Vishnu Garden, Gali No 7, New Delhi, West Delhi, Delhi' (Nums=['221', '61', '7'], Words=['ground', 'flor', 'vishnu'])
+Tgt: Name='यूनिक डेवलपर्स प्राइवेट लिमिटेड' (Tokens=['yunik', 'devlprs', 'praivet'])
+     Addr='HN 473. S 221/61, WEST DELHI, NEW DELHI, Delhi' (Nums=['473', '221', '61'], Words=['delhi', 'new', 'delhi'])
+------------------------------------------------------------
+S1:  Name='EZD Trip Private Limited' (Tokens=['ezd', 'trip'])
+     Addr='B 13 K 44, Anura Kala, Chinhat, Lucknow, Uttar Pradesh' (Nums=['13', '44'], Words=['anura', 'kala', 'chinhat'])
+Tgt: Name='Private EZD Ta Limited' (Tokens=['ezd', 'ta'])
+     Addr='B 13 K 44, Lucknow, उत्तर प्रदेश' (Nums=['13', '44'], Words=['lucknow', 'utr', 'prdesh'])
+------------------------------------------------------------
+S1:  Name='Alpha Food Private Limited' (Tokens=['alpha', 'fod'])
+     Addr='N-1 Shoping Complex Cidco, Aurangabad, Maharashtra' (Nums=['1'], Words=['shoping', 'complex', 'cidco'])
+Tgt: Name='अल्फा फूड प्राइवेट लिमिटेड' (Tokens=['alpha', 'phud', 'praivet'])
+     Addr='Maharashtra, AURANGABAD, N-1 SHOPING COMPLEX CIDCO, AURANGABAD' (Nums=['1'], Words=['maharashtra', 'aurangabad', 'shoping'])
+------------------------------------------------------------
+S1:  Name='Emco Promoters' (Tokens=['emco', 'promoters'])
+     Addr='Shop No. 158-159, Mehnandvas House, Nehru Bazar, Jaipur, Rajasthan' (Nums=['158', '159'], Words=['mehnandvas', 'nehru', 'bazar'])
+Tgt: Name='Emco-Service' (Tokens=['emco', 'service'])
+     Addr='No 158-159, Jaipur, RJ' (Nums=['158', '159'], Words=['jaipur'])
+------------------------------------------------------------
+S1:  Name='Nexan Oceanhawk PLLC' (Tokens=['nexan', 'oceanhawk', 'plc'])
+     Addr='371 Broad Street, PA, Franconia Township' (Nums=['371'], Words=['broad', 'stret', 'franconia'])
+Tgt: Name='Nexan Oremnhawk PLLC' (Tokens=['nexan', 'oremnhawk', 'plc'])
+     Addr='FRANCONIA TOWNSHIP, PA, 371 BROAD STREET' (Nums=['371'], Words=['franconia', 'township', 'broad'])
+------------------------------------------------------------
+S1:  Name='All Estate' (Tokens=['al', 'estate'])
+     Addr='Plot No 483A, Shop No F-1, S K Open Mall Complex C, Nashik, Maharashtra' (Nums=['1'], Words=['483a', 'open', 'mal'])
+Tgt: Name='ऑल एस्टेट' (Tokens=['onl', 'estet'])
+     Addr='#A-483A, Nashik, MH' (Nums=[], Words=['483a', 'nashik'])
+------------------------------------------------------------
+S1:  Name='Rodriguez Medical Center' (Tokens=['rodriguez', 'medical', 'center'])
+     Addr='14 Hillcrest Circle, Bldg 20016, Marysville, OH' (Nums=['14', '20016'], Words=['hilcrest', 'circle', 'marysvile'])
+Tgt: Name='Fayedeltamira' (Tokens=['fayedeltamira'])
+     Addr='014 HILLCREST CIR, MARYSVILLE, OH' (Nums=['014'], Words=['hilcrest', 'cir', 'marysvile'])
+------------------------------------------------------------
+S1:  Name='Black Developers Private Limited' (Tokens=['black', 'developers'])
+     Addr='501, Tower-10, Fresco Nirvana Country, Sector 50, Gurgaon, Haryana' (Nums=['501', '10', '50'], Words=['tower', 'fresco', 'nirvana'])
+Tgt: Name='ब्लैक Developers प्राइवेट लिमिटेड' (Tokens=['blaik', 'developers', 'praivet'])
+     Addr='HR, Gurgaon, #501, Gurgaon' (Nums=['501'], Words=['gurgaon', 'gurgaon'])
+------------------------------------------------------------
+S1:  Name='Sai Technology Limited' (Tokens=['sai'])
+     Addr='92/1(G-F/S-10)K.G.Rs Path Biswakarma Apartment, Bhadreswar, Hooghly, West Bengal' (Nums=['92', '1', '10'], Words=['path', 'biswakarma', 'bhadreswar'])
+Tgt: Name='সাই টেকনোলজি লিমিটেড' (Tokens=['sai', 'teknolji'])
+     Addr='WB, Bhadreswar, null, 92/1(G-F/S-10)K.G.Rs Path Biswakarma Apartment' (Nums=['92', '1', '10'], Words=['bhadreswar', 'nul', 'path'])
+------------------------------------------------------------
+S1:  Name='Sai Technology Limited' (Tokens=['sai'])
+     Addr='92/1(G-F/S-10)K.G.Rs Path Biswakarma Apartment, Bhadreswar, Hooghly, West Bengal' (Nums=['92', '1', '10'], Words=['path', 'biswakarma', 'bhadreswar'])
+Tgt: Name='*** Vantagemiraavi' (Tokens=['vantagemiravi'])
+     Addr='HOOGHLY, West Bengal, 92/1(G-F/S-10)K.G.RS PATH BISWAKARMA APARTMENT, N/A' (Nums=['92', '1', '10'], Words=['hoghly', 'bengal', 'path'])
+------------------------------------------------------------
+S1:  Name='Gupta Consulting Partners' (Tokens=['gupta', 'consulting', 'partners'])
+     Addr='H No. 8-2-293/82/A/761, Plot No.761 Road No.39, Jubill Hills, Hyderabad, Telangana' (Nums=['8', '2', '293', '82', '761', '761', '39'], Words=['jubil', 'hils', 'hyderabad'])
+Tgt: Name='ptrguptaconsulting.com' (Tokens=['ptrguptaconsulting'])
+     Addr='DOOR NO 8-2-293/82/A/761, KANDUKUR, Telangana, PLOT NO.761 ROAD NO.39, JUBILL HILLS, HYDERABAD' (Nums=['8', '2', '293', '82', '761', '761', '39'], Words=['dor', 'kandukur', 'telangana'])
+------------------------------------------------------------
+S1:  Name='Urban (global) Private Limited' (Tokens=['urban'])
+     Addr='203, Advent Atria, Chincholi Bunder Road Opp. Kingstone Tower, Malad West, Mumbai, Mumbai City, Maharashtra' (Nums=['203'], Words=['advent', 'atria', 'chincholi'])
+Tgt: Name='Urban  (Global) Peiravaate Limited' (Tokens=['urban', 'peiravate'])
+     Addr='203, Mumbai, Mumbai City, MH' (Nums=['203'], Words=['mumbai', 'mumbai'])
+------------------------------------------------------------
+S1:  Name='Sree Projects LLP' (Tokens=['sre', 'projects', 'lp'])
+     Addr='55Block O, Kidwai Nagar, Transport Nagar, Kanpur Nagar, Uttar Pradesh' (Nums=[], Words=['55block', 'kidwai', 'transport'])
+Tgt: Name='Sree' (Tokens=['sre'])
+     Addr='Transport Nagar, Uttar Pradesh, Kanpur Nagar, 55Block O, Kidwai Nagar' (Nums=[], Words=['transport', 'utar', 'pradesh'])
+------------------------------------------------------------
+S1:  Name='Sree Projects LLP' (Tokens=['sre', 'projects', 'lp'])
+     Addr='55Block O, Kidwai Nagar, Transport Nagar, Kanpur Nagar, Uttar Pradesh' (Nums=[], Words=['55block', 'kidwai', 'transport'])
+Tgt: Name='श्री प्रोजेक्ट्स एलएलपी' (Tokens=['projekts', 'elelpi'])
+     Addr='Kanpur Nagar, Transport Nagar, Kidwai Nagar, UP, 55Block O' (Nums=[], Words=['kanpur', 'transport', 'kidwai'])
+------------------------------------------------------------

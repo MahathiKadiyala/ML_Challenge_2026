@@ -1,0 +1,150 @@
+Country: India | Name Ratio: 46.7 | Addr Ratio: 47.8
+  S1:  Name='Gems Brothers'
+       Addr='C/O Brijmohan Jhunjhuni, Post Behsuma Meerut, Mawana, Meerut, Uttar Pradesh'
+  Tgt: Name='M/s Gems-Banohres'
+       Addr='C/O BRIJMOHAN JHUNJHUNI, POST BEHSUMA MEERUT, MAWANA, Uttar Pradesh'
+------------------------------------------------------------
+Country: US | Name Ratio: 26.3 | Addr Ratio: 51.4
+  S1:  Name='Neex Navigation Ltd'
+       Addr='4170 Deal Mill Road, Granite Falls, NC'
+  Tgt: Name='NEEX NÁVIGATION LTD'
+       Addr='4170 DEAL MILL RD, GRANITE FALLS, NC'
+------------------------------------------------------------
+Country: US | Name Ratio: 17.0 | Addr Ratio: 26.1
+  S1:  Name='Rocky Summit Strategy'
+       Addr='7412 Long Pine Drive, Fairfax County, VA'
+  Tgt: Name='ROCKY-SUMMIT STRATEGY INC.'
+       Addr='LONG PINE DR, SPRINGFIELD, VA'
+------------------------------------------------------------
+Country: US | Name Ratio: 20.6 | Addr Ratio: 43.6
+  S1:  Name='Dibello and Gonzalez Avalanche Inc'
+       Addr='OH, 78 Hiawatha Drive, Powell'
+  Tgt: Name='DIBELLO AND GONZALEZ AVALANCHE INC'
+       Addr='78 HIAWATHA DR, POWELL, OH'
+------------------------------------------------------------
+Country: India | Name Ratio: 69.8 | Addr Ratio: 29.7
+  S1:  Name='Gtv Trading Pvt Ltd'
+       Addr='H.No.-625, Sector-Ii, Pocket-6, Rohini, New Delhi, East Delhi, Delhi'
+  Tgt: Name='Shri gtv trading pvt ltd'
+       Addr='DL, H.no.-625'
+------------------------------------------------------------
+Country: India | Name Ratio: 66.7 | Addr Ratio: 45.2
+  S1:  Name='Apex Investment Limited'
+       Addr='Saran, C/O Sanjeev Singh, Opposite Canara Bank, Gandhi Chowk, Town, /Vill & Th, Bihar, Saran'
+  Tgt: Name='Apex lnvestment Ltd'
+       Addr='H.NO 378 C/O SANJEEV SINGH, OPPOSITE CANARA BANK, GANDHI CHOWK, TOWN, /VILL & TH, SARAN, Bihar'
+------------------------------------------------------------
+Country: India | Name Ratio: 25.0 | Addr Ratio: 44.1
+  S1:  Name='White Energy Private Limited'
+       Addr='233/4 Acharya Jagdish Candrabose Road, Kolkata, Calcutta, West Bengal'
+  Tgt: Name='WHITE ENERGY PRIVATE LIMITED'
+       Addr='DOOR NO 233/4 ACHARYA JAGDISH CANDRABOSE ROAD, KOLKATA, West Bengal'
+------------------------------------------------------------
+Country: US | Name Ratio: 23.3 | Addr Ratio: 43.8
+  S1:  Name='Carter Delta Marine P.C.'
+       Addr='6438 1st Street, Holbrook, AZ'
+  Tgt: Name='CARTER DELTA MARINE'
+       Addr='6438 FIRST ST, <NULL>, HOLBROOK, AZ'
+------------------------------------------------------------
+Country: US | Name Ratio: 23.0 | Addr Ratio: 40.5
+  S1:  Name='Liberty Regional Ares Center'
+       Addr='19101 Plummer Drive, Germantown, MD'
+  Tgt: Name='LIBERTY REGIONAL ARES CENTER CORP'
+       Addr='##19101 PLUMMER DR, GERMANTOWN CITY, MD'
+------------------------------------------------------------
+Country: US | Name Ratio: 19.2 | Addr Ratio: 33.3
+  S1:  Name='Safe Automation Collective'
+       Addr='300 San Gabriel Village Boulevard, Unit 3, Georgetown, TX'
+  Tgt: Name='SAFE  AUTOMATION COLLECTIVE'
+       Addr='00300 SAN GABRIEL VILLAGE BOULEVARD, GEORGETOWN, TX'
+------------------------------------------------------------
+Country: US | Name Ratio: 17.4 | Addr Ratio: 41.9
+  S1:  Name='Dugas Aktiengesellschaft Inc'
+       Addr='204 Wilson Avenue, Beulaville, NC'
+  Tgt: Name='DUGAS  INC SERVICES'
+       Addr='04 WILSON AVE, BEULAVILLE, NC'
+------------------------------------------------------------
+Country: US | Name Ratio: 64.0 | Addr Ratio: 32.3
+  S1:  Name='Safe Charlton LLC'
+       Addr='813 Michigan Street, Plymouth, IN'
+  Tgt: Name='Safe LLC Services'
+       Addr='MICHIGAN STREET, PLYMOUTH, IN'
+------------------------------------------------------------
+Country: US | Name Ratio: 20.0 | Addr Ratio: 45.2
+  S1:  Name='Allied Intelligence Products Inc'
+       Addr='357 Eagle Ridge, Sneedville, TN'
+  Tgt: Name='ALLIED INTELLIGENCE PRODUCTS'
+       Addr='357 EAGLE RIDGE, SNEEDVILLE, TN'
+------------------------------------------------------------
+Country: US | Name Ratio: 26.1 | Addr Ratio: 48.5
+  S1:  Name='Barnett Colonial Gsr, LLC'
+       Addr='26734 Augustine Drive, Daphne, AL'
+  Tgt: Name='BARNETT COLONIAL GSR,'
+       Addr='26734  AUGUSTINE DRIVE, DAPHNE, AL'
+------------------------------------------------------------
+Country: India | Name Ratio: 28.6 | Addr Ratio: 47.3
+  S1:  Name='QE Alpha Private Limited'
+       Addr='H.No. 36A Rk Plaza, Addagutta Society, Kukatpally, Hyderabad, Telangana'
+  Tgt: Name='QE ALPHA LIMITED SERVICES'
+       Addr='H.NO. 36A RK PLAZA, ADDAGUTTA SOCIETY, KUKATPALLY, Telangana'
+------------------------------------------------------------
+Country: US | Name Ratio: 15.0 | Addr Ratio: 46.9
+  S1:  Name='Pediatric Dental Group'
+       Addr='16520 Kipling Road, Derwood, MD'
+  Tgt: Name='PEDIATRIC PEDIATRIC (DENTAL)'
+       Addr='MD, 16520 KILING RD, DERWOOD CITY'
+------------------------------------------------------------
+Country: India | Name Ratio: 29.2 | Addr Ratio: 56.2
+  S1:  Name='Towers Interio Limited'
+       Addr='Hn.N-96, Shop No 2 Keshari, Nagar, Manegao, Ranjhi, Jabalpur, Madhya Pradesh'
+  Tgt: Name='Smt TOWERS INTERIO LIMITED'
+       Addr='HN.N-#96, SHOP NO 2 KESHARI, NAGAR, MANEGAO, RANJHI, JABALPUR, Madhya Pradesh'
+------------------------------------------------------------
+Country: US | Name Ratio: 9.8 | Addr Ratio: 59.5
+  S1:  Name='Ramirez Global Liberty Care'
+       Addr='1481 Lindsay Lane, Fl 1, Galesburg, IL'
+  Tgt: Name='RAMIREZ-GLOBAL'
+       Addr='1481-A Lindsay Ln, GALESBURG CDP, IL'
+------------------------------------------------------------
+Country: US | Name Ratio: 25.0 | Addr Ratio: 45.1
+  S1:  Name='Signature Copley Inc'
+       Addr='582 Campground Road, Bell Buckle, TN'
+  Tgt: Name='SlGNATURE COPLEY INC'
+       Addr='#582 CAMPGROUND RD, BELL BUCKLE, TN'
+------------------------------------------------------------
+Country: India | Name Ratio: 25.0 | Addr Ratio: 53.2
+  S1:  Name='Coimbatore & Sons Private Limited'
+       Addr='Hooghly, West Bengal, B P M B Sarani, Bhadrakali, Lp No 17/11, Uttarpara, 83'
+  Tgt: Name='COIMBATORE + SONS PIAET LIMITED'
+       Addr='83, B P M B SARANI, BHADRAKALI, LP NO 17/11, UTTARPARA, West Bengal'
+------------------------------------------------------------
+Country: US | Name Ratio: 24.2 | Addr Ratio: 29.5
+  S1:  Name='Gene Conway, O.D. Inc'
+       Addr='303 Rainbow Drive, Nelson County, VA'
+  Tgt: Name='GENE CONWAY,'
+       Addr='RAINBOW DR, ARRINGTON, VA'
+------------------------------------------------------------
+Country: US | Name Ratio: 20.0 | Addr Ratio: 39.5
+  S1:  Name='Pediatric Dentistry Care Associates'
+       Addr='520 Medford Street, Unit 4, Malden, MA'
+  Tgt: Name='PEDIATRIC DENTISTRY CARE ASSOCIATES'
+       Addr='520 MEDFORD STREET, PO BOX 2663, MALDEN, MA'
+------------------------------------------------------------
+Country: US | Name Ratio: 17.6 | Addr Ratio: 40.0
+  S1:  Name='Pacific Coalition'
+       Addr='345 Blueberry Hill Drive, Crooked Creek, NC'
+  Tgt: Name='PACIFIC  COALITION'
+       Addr='34 BLUEBERRY HILL DRIVE, CROOKED CREEK, NC'
+------------------------------------------------------------
+Country: US | Name Ratio: 36.4 | Addr Ratio: 35.1
+  S1:  Name='BQ Golden Fuse'
+       Addr='3373 Lakeview Road, Memphis, TN'
+  Tgt: Name='BQ GOLDEN'
+       Addr='LAKEVIEW ROAD, MEMPHIS, TN'
+------------------------------------------------------------
+Country: US | Name Ratio: 24.0 | Addr Ratio: 56.6
+  S1:  Name='Askey Family Practice Inc'
+       Addr='9414 400, Greenfield, IN'
+  Tgt: Name='CENTER ASKEY PRACTICE INC'
+       Addr='9414-9418 400, GREENFIELD, IN'
+------------------------------------------------------------

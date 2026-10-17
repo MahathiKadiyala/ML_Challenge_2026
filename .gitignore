@@ -1,0 +1,21 @@
+# Large dataset files & generated outputs exceeding GitHub's 100MB limit
+results/
+student_resource/dataset/
+student_resource/output/*.tsv
+work/*.tsv
+work/cands_*.tsv
+work/high_scores_*.tsv
+work/matches_*.tsv
+*.zip
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.log
+

@@ -1,0 +1,60 @@
+S1 (S1-553718329): Name='Smart Marketing Pvt Ltd' | Addr='127/675-B W Block Keshav Nagar Juhi Kalalan, Kanpur, Uttar Pradesh'
+Tgt (S2-159601454): Name='स्मार्ट मार्केटिंग प्रा. लि.' | Addr='DOOR NO 127/675-B W BLOCK KESHAV NAGAR JUHI KALALAN, KANPUR, KANPUR NAGAR, Uttar Pradesh'
+------------------------------------------------------------
+S1 (S1-575260530): Name='My Power Limited' | Addr='H/No- 150, Dharam Colony Palam Vihar Extn, Gurugram, Gurgaon, Haryana'
+Tgt (S2-626535823): Name='माय पावर लिमिटेड' | Addr='H/NO- 150, DHARAM COLONY PALAM VIHAR EXTN, DIVREPORTINGCIRCLE, GURGAON, Haryana'
+------------------------------------------------------------
+S1 (S1-132681531): Name='Apex Technology' | Addr='S No 4764 A, G/F Laxmi Bazar, Delhi, North West, Delhi'
+Tgt (S2-104452089): Name='एपेक्स टेक्नोलॉजी' | Addr='43 S NO 4764 A, NORTH WEST, G/F LAXMI BAZAR, दिल्ली, DELHI'
+------------------------------------------------------------
+S1 (S1-271774127): Name='Ss Projects' | Addr='A1, Pacific Chsl, Swami, Samarth Nagar, Andheri W, Mumbai, Maharashtra'
+Tgt (S3-43088661): Name='एसएस प्रोजेक्ट्स' | Addr='A1, Mumbai, MH'
+------------------------------------------------------------
+S1 (S1-77153231): Name='North Real Constructions Private Limited' | Addr='C/O, Secratary, 25/172/, Kids Kottappuram Kdlr, Thrissur, Kerala'
+Tgt (S3-854424649): Name='നോർത്ത് റിയൽ കൺസ്ട്രക്ഷൻസ് പ്രൈവറ്റ് ലിമിറ്റഡ്' | Addr='C/o, Secratary, 25/172/, Kids Kottappuram Kdlr, Thrissur, KL'
+------------------------------------------------------------
+S1 (S1-982084073): Name='Star Projects Private Limited' | Addr='3B-1703, Green Acres Chs Ltd., Plot No. 325, Lokhandwala Complex, Andheri (West), Mumbai, Mumbai City, Maharashtra'
+Tgt (S2-530672476): Name='स्टार प्रोजेक्ट्स प्राइवेट लिमिटेड' | Addr='HN 248 3B-1703, MUMBAI, MUMBAI CITY, Maharashtra'
+------------------------------------------------------------
+S1 (S1-695662382): Name='Universal Food Private Limited' | Addr='Ernakulam, Kerala, 32/2327, Chennoth Building Opposite Bsnl Exchange, Palarivattom P.O, Ernakulam'
+Tgt (S3-837636798): Name='യൂണിവേഴ്സൽ ഫുഡ് പ്രൈവറ്റ് ലിമിറ്റഡ്' | Addr='Ernakulam, Keralam, Chennoth Building Opposite Bsnl Exchange, Palarivattom P.o, Ernakulam, 32/2327'
+------------------------------------------------------------
+S1 (S1-578268833): Name='Tirupati Media Private Limited' | Addr='Shop No. 117, First Floor, Radhe Fortune, Apollo Circle, Bhat, Gandhinagar, Gandhinagar, Gandhi Nagar, Gujarat'
+Tgt (S3-474014547): Name='તિરુપતિ મીડિયા પ્રાઇવેટ લિમિટેડ' | Addr='117, Gandhi Nagar, ગુજરાત'
+------------------------------------------------------------
+S1 (S1-276888787): Name='Life Swastik Management' | Addr='6, Rasegaon Shivar, Peth Road, Dindori, Nashik, Maharashtra'
+Tgt (S2-402984775): Name='लाइफ स्वस्तिक मैनेजमेंट' | Addr='C-6, DINDORI, NASHIK, Maharashtra'
+------------------------------------------------------------
+S1 (S1-870655657): Name='Dream Solutions' | Addr='11 Second Floor Ninex City Mart Sohna Road Sector 49, Gurgaon, Haryana'
+Tgt (S2-981847252): Name='ड्रीम सॉल्यूशंस' | Addr='GURGAON, Haryana, 11 SECOND FLOOR NINEX CITY MART SOHNA ROAD SECTOR 49, GURGAON'
+------------------------------------------------------------
+S1 (S1-586351603): Name='Vision Construction Pvt Ltd' | Addr='Plot No.5, Venkatramana Colony, Nagole, Hyderabad, Telangana'
+Tgt (S2-697456529): Name='విజన్ కన్‌స్ట్రక్షన్ ప్రైవేట్ లిమిటెడ్' | Addr='NO 5, HYDERABAD, Telangana'
+------------------------------------------------------------
+S1 (S1-540623564): Name='United Tech Pvt Ltd' | Addr='87, Durgadevi Street, Mumbai, Maharashtra'
+Tgt (S2-348654177): Name='United Tech प्रा. लि.' | Addr='613/9 87, DURGADEVI STREET, Maharashtra'
+------------------------------------------------------------
+S1 (S1-296120236): Name='Shiva Good Consultants Pvt Ltd' | Addr='Malappuram, Room No Kp 4/1597 M, Near New Relief Hospital, Tirurangadi, Malapuram, Kerala'
+Tgt (S2-621422174): Name='ശിവാ ഗുഡ് കൺസൾട്ടന്റ്സ് പ്രൈവറ്റ് ലിമിറ്റഡ്' | Addr='NEAR NEW RELIEF HOSPITAL, TIRURANGADI, MALAPPURAM, കേരളം, ROOM NO KP 4/159 M, MALAPURAM'
+------------------------------------------------------------
+S1 (S1-120852828): Name='North Unique Care Limited' | Addr='Old Rto, Bhopalgunj, Bhilwara, Rajasthan, Bhilwara, C/O Kunwar Devendra Singh Mahila Ashram Road'
+Tgt (S3-232905278): Name='नॉर्थ यूनिक केयर लिमिटेड' | Addr='C/o Kunwar Devendra Singh Mahila Ashram Road, Old Rto, Bhopalgunj, Bhilwara, RJ'
+------------------------------------------------------------
+S1 (S1-431092206): Name='Universal Builders Private Limited' | Addr='Nellore, Andhra Pradesh, Kavali, Revenue Ward No 10, 9-1-1A Pedda Pavani Road'
+Tgt (S3-985594992): Name='యూనివర్సల్ బిల్డర్స్ ప్రైవేట్ లిమిటెడ్' | Addr='#9-1-1A Pedda Pavani Road, Kavali, Nellore, AP'
+------------------------------------------------------------
+S1 (S1-206661258): Name='Sunrise International Private Limited' | Addr='No 3481/B, 4Th Block, Banshankari 6Th Stage, Bangalore South, Bangalore, Karnataka'
+Tgt (S3-936540378): Name='ಸನ್‌ರೈಸ್ ಇಂಟರ್‌ನ್ಯಾಷನಲ್ ಪ್ರೈವೇಟ್ ಲಿಮಿಟೆಡ್' | Addr='KA, H.no 3481/B, Bangalore'
+------------------------------------------------------------
+S1 (S1-294523014): Name='Innovative Trading Pvt Ltd' | Addr='No.3, Club Roadchetpet Chennai, Chennai, Tamil Nadu'
+Tgt (S2-543915937): Name='இன்னோவேட்டிவ் டிரேடிங் பிரைவேட் லிமிடெட்' | Addr='CLUB ROADCHETPET CHENNAI, CHENNAI, Tamil Nadu, ###3'
+------------------------------------------------------------
+S1 (S1-697376633): Name='Hitech Infra Limited' | Addr='Noida, Gautam Buddha Nagar, Uttar Pradesh, Noida, E-45 Sector -3'
+Tgt (S2-685752478): Name='हाईटेक इंफ्रा लिमिटेड' | Addr='E-45 SECTOR -3, NOIDA, उत्तर प्रदेश, GAUTAM BUDDHA NAGAR, NOIDA'
+------------------------------------------------------------
+S1 (S1-60722498): Name='Tech Global Private Limited' | Addr='910, 9Th Floor, Cyber Plaza, Netaji Subhash Place Pitam Pura, New Delhi, Delhi'
+Tgt (S2-247121189): Name='टेक ग्लोबल प्राइवेट लिमिटेड' | Addr='910, PITAMPURA, NEW DELHI, Delhi'
+------------------------------------------------------------
+S1 (S1-344527546): Name='Jai Systems Private Limited' | Addr='Tijara, Cosmos Greens, Alwar, Rajasthan, C-801 Ashoka'
+Tgt (S2-237343118): Name='जय सिस्टम्स प्राइवेट लिमिटेड' | Addr='C-801  ASHOKA, TIJARA, ALWAR, Rajasthan'
+------------------------------------------------------------

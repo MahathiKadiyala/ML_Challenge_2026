@@ -1,0 +1,80 @@
+Name Ratio: 56.0 | Addr Ratio: 94.3 | Country: India
+S1 (S1-862829910): Name='Bnm & Sons Ltd' | Addr='Cabin No. 27 Ws No. 1, Golden Square No. 102, Eden Park, 20 Vittal Mallya Road, Bangalore, Karnataka'
+Tgt (S2-442218722): Name='bnmsons.com' | Addr='DOOR NO 192 CABIN NO. 27 WS NO. 1, GOLDEN SQUARE NO. 102, EDEN PARK, 20 VITTAL MALLYA ROAD, BANGALORE, Karnataka'
+------------------------------------------------------------
+Name Ratio: 15.4 | Addr Ratio: 75.3 | Country: India
+S1 (S1-926207009): Name='Surya Consultants Private Limited' | Addr='Science And Technology Entrepreneurs' Park (Step) P.O.- Iit Kharagpur, Paschim Midnapore, Kharagpur, Midnapore, West Bengal'
+Tgt (S3-798829632): Name='Irisol' | Addr='Science And Technology Entrepreneuas' Park (Step) P.o.- Iit Kharagpur, Kharagpur, পশ্চিমবঙ্গ'
+------------------------------------------------------------
+Name Ratio: 53.3 | Addr Ratio: 20.2 | Country: India
+S1 (S1-749935554): Name='Vs & Co' | Addr='13, Ganesh Nagar- 2Nd, Near Kishore Nagar, Murlipura, Jaipur, Jaipur, Rajasthan'
+Tgt (S3-352540056): Name='M/s Vs &' | Addr='राजस्थान, 13, Jaipur'
+------------------------------------------------------------
+Name Ratio: 51.3 | Addr Ratio: 58.1 | Country: India
+S1 (S1-945749037): Name='Saras Life Private Limited' | Addr='Suite No. 7, 3Rd Floor R N 50, B-Block Market, Sector 62, Noida, Gautam Buddha Nagar, Uttar Pradesh'
+Tgt (S3-504411383): Name='saraslife.com' | Addr='Hn 75 Suite No. 7, Noida, Gautam Buddha Nagar, UP'
+------------------------------------------------------------
+Name Ratio: 55.2 | Addr Ratio: 88.2 | Country: US
+S1 (S1-20379357): Name='Fonda Management' | Addr='3286 Palmdale Road, Williams, AZ'
+Tgt (S3-949356241): Name='Fonda Service' | Addr='#3286 Palmdale Rd, Williams, Arizona'
+------------------------------------------------------------
+Name Ratio: 51.1 | Addr Ratio: 93.5 | Country: US
+S1 (S1-580815955): Name='Dugas Aktiengesellschaft Inc' | Addr='204 Wilson Avenue, Beulaville, NC'
+Tgt (S2-573632729): Name='DUGAS  INC SERVICES' | Addr='04 WILSON AVE, BEULAVILLE, NC'
+------------------------------------------------------------
+Name Ratio: 47.1 | Addr Ratio: 93.5 | Country: US
+S1 (S1-58990): Name='Safe Charlton LLC' | Addr='813 Michigan Street, Plymouth, IN'
+Tgt (S2-28355395): Name='Safe LLC Services' | Addr='MICHIGAN STREET, PLYMOUTH, IN'
+------------------------------------------------------------
+Name Ratio: 29.4 | Addr Ratio: 54.3 | Country: US
+S1 (S1-808080119): Name='I T & A Convertible LLC' | Addr='NM, Albuquerque, 10809 Monterey Pier Drive'
+Tgt (S3-26755706): Name='Tavociralum' | Addr='10809 Monterey Pier Drive, Albuquerque, New Mexico'
+------------------------------------------------------------
+Name Ratio: 48.8 | Addr Ratio: 89.9 | Country: US
+S1 (S1-655323700): Name='Metro Holding Company Inc' | Addr='2018 Brown Avenue, Kansas City, KS'
+Tgt (S3-970591748): Name='holdingmetro.com' | Addr='2018 Brown Ave, Kansas City, Kansas'
+------------------------------------------------------------
+Name Ratio: 56.4 | Addr Ratio: 76.7 | Country: US
+S1 (S1-966332725): Name='Best Telecom Products LLC' | Addr='1056 Buckeye Furnace Road, OH, Wellston'
+Tgt (S2-491025373): Name='btproducts.com' | Addr='056 BUCKEYE FURNACE RD, MILTON, OH'
+------------------------------------------------------------
+Name Ratio: 19.4 | Addr Ratio: 69.5 | Country: India
+S1 (S1-290340756): Name='Hari Projects Limited' | Addr='Amtala - Loknath Market, D. H. Road P.O - Kanyanagar, Twenty Four Pgs South, Kolkata, Howrah, West Bengal'
+Tgt (S3-408885943): Name='Korvantage' | Addr='Kolkata, West Bengal, Howrah, D. H. Road P.O - Kanyanagar, Twenty Four Pgs South, Amtala - Loknath Market'
+------------------------------------------------------------
+Name Ratio: 57.1 | Addr Ratio: 65.9 | Country: US
+S1 (S1-809583040): Name='487 Sunset St Partners PLLC' | Addr='MA, 286 Melrose Street, Newton, Unit 1'
+Tgt (S3-5770586): Name='487sunsetst.com' | Addr='286-288 Melrose Street, Unit 1, Newton, Massachusetts'
+------------------------------------------------------------
+Name Ratio: 25.0 | Addr Ratio: 94.3 | Country: India
+S1 (S1-198190686): Name='Trident Consultancy Private Limited' | Addr='O No 2/5, N. No.102, Sai Bhavan, Ramakrishna Puram, Coimbatore, Tamil Nadu'
+Tgt (S3-279056842): Name='Jaxveovantage' | Addr='O No 2/5, N. No.102, Sai Bhavan, Ramakrishna Puram, Coimbatore, TN'
+------------------------------------------------------------
+Name Ratio: 31.6 | Addr Ratio: 74.1 | Country: India
+S1 (S1-572885512): Name='New Enterprises Pvt Ltd' | Addr='C/O V.Manikkan 5A/144, W.E.A., Karol Bagh, New Delhi, Delhi'
+Tgt (S2-887811539): Name='Shri NEWENT.COM' | Addr='PLOT 93 C/O V.MANIKKAN 5A/144, W.E.A., KAROL BAGH, दिल्ली'
+------------------------------------------------------------
+Name Ratio: 54.5 | Addr Ratio: 60.2 | Country: India
+S1 (S1-191724896): Name='Shivay Restaurant Private Limited' | Addr='Prakasam, Andhra Pradesh, Vetapalem, Kothapet Iltd Colony, D.No.3-19-06'
+Tgt (S2-755890574): Name='Shivay Limited Private Restaurant' | Addr='Andhra Pradesh, D.NO.1-19-06 , KOTHAPET ILTD COLONY, VETAPALEM'
+------------------------------------------------------------
+Name Ratio: 55.6 | Addr Ratio: 79.5 | Country: US
+S1 (S1-799908473): Name='Rapid Critical Inc' | Addr='MN, 4939 Sparrow Road, Minnetonka'
+Tgt (S3-115330897): Name='Inc Rapid Crsignrl' | Addr='4939 Sparrow Road, Minnetonka, Minnesota'
+------------------------------------------------------------
+Name Ratio: 50.0 | Addr Ratio: 88.0 | Country: US
+S1 (S1-849740553): Name='Brady Affiliated LLC' | Addr='Citrus Heights, 8127 Lichen Drive, CA'
+Tgt (S2-809323860): Name='Center Brady LLC' | Addr='CA, CITRUS  HEIGHTS, 8127 LICHEN DRIVE'
+------------------------------------------------------------
+Name Ratio: 58.3 | Addr Ratio: 92.5 | Country: US
+S1 (S1-469633032): Name='Keystone LLC' | Addr='63 Anaconda Street, Staten Island, NY'
+Tgt (S3-968935065): Name='LLC Keystoen' | Addr='63 Anaconda Street, Staten Island, New York'
+------------------------------------------------------------
+Name Ratio: 12.5 | Addr Ratio: 79.2 | Country: India
+S1 (S1-472771960): Name='Tech Construction Pvt Ltd' | Addr='Shop No.4, B Wing, S.N0.19, H.No.6, Trimurti Apt. Near Astha Hotel, Ambadi Road, Vasai, Thane, Maharashtra'
+Tgt (S3-693369357): Name='Zephwex' | Addr='Maharashtra, Thane, B Wing, S.N0.19, H.No.6, Trimurti Apt. Near Astha Hotel, Ambadi Road, Shop No.4, Vasai'
+------------------------------------------------------------
+Name Ratio: 47.8 | Addr Ratio: 86.7 | Country: US
+S1 (S1-144510150): Name='Pederson, Ronalda N., D.C.' | Addr='3413 A Van Etten Road, Corning, NY'
+Tgt (S2-123604030): Name='ronaldapedersonn.com' | Addr='VAN ETTEN ROAD, CONING, NY'
+------------------------------------------------------------
